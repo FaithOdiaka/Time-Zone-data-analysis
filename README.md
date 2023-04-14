@@ -22,7 +22,8 @@ After resolving the issues above, the cleaned version of the data was much relia
 4. How did the different time zones affect delivery count
 5. Is there a relationship between local time and deliveries made?
 
-CONCLUSION
+* CONCLUSION
+
 This project was an interesting one to do. At the end, I compared the images of before and after I has corrected the time-zone error. Cleaning this dataset was very fun, forcing me to look beyond what was clear to the ordinary eye and fix the problem.
 Appropriating the regions to their appropriate time zones saved  me a lot of time and effort.
 It was eventually  clear to get accurate readings of the orders and their timing in New York, Chicago and san Fransisco.
