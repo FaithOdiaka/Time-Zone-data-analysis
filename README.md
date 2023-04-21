@@ -24,8 +24,8 @@ After resolving the issues above, the cleaned version of the data was much relia
 
 * CONCLUSION
 
-This project was an interesting one to do. At the end, I compared the images of before and after I has corrected the time-zone error. Cleaning this dataset was very fun, forcing me to look beyond what was clear to the ordinary eye and fix the problem.
-Appropriating the regions to their appropriate time zones saved  me a lot of time and effort.
+At the end of this project, I compared the images of before and after I has corrected the time-zone error. Cleaning this dataset was very interesting, forcing me to look beyond what was clear to the ordinary eye and fix the problem.
+Appropriating the regions to their appropriate time zones saved a lot of time and effort.
 It was eventually  clear to get accurate readings of the orders and their timing in New York, Chicago and san Fransisco.
 At the end of the notebook, we would see that there is a significant difference between the graphs visualizing the delivery counts across the different regions. The last set of graphs make more sense (as deliveries are normally made during daytime) and is more readable.
- main
+ 
